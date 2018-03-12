@@ -1,1 +1,2 @@
-pring('22hrl')
+pring('hello,world')
+
